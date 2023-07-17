@@ -466,9 +466,7 @@ body {
   background-color: #fafafa !important;
   border-color: #fafafa !important;
 }
-.text-primary {
-  color: #e3d03c !important;
-}
+
 .text-secondary {
   color: #ff6666 !important;
 }
@@ -493,7 +491,7 @@ body {
 a.text-primary:hover,
 a.text-primary:focus,
 a.text-primary.active {
-  color: #a29217 !important;
+  color: #000 !important;
 }
 a.text-secondary:hover,
 a.text-secondary:focus,
